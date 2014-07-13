@@ -1,0 +1,328 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201204 will be lost/reset.
+# Last config file used to build this data file was ./awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1934                
+POS_TIME 2605                
+POS_VISITOR 7174                
+POS_DAY 8409                
+POS_DOMAIN 3270                
+POS_LOGIN 3561                
+POS_ROBOT 3716                
+POS_WORMS 4111                
+POS_EMAILSENDER 4242                
+POS_EMAILRECEIVER 4385                
+POS_SESSION 8795                
+POS_SIDER 8952                
+POS_FILETYPES 4520                
+POS_OS 4604                
+POS_BROWSER 4699                
+POS_SCREENSIZE 4855                
+POS_UNKNOWNREFERER 4929                
+POS_UNKNOWNREFERERBROWSER 5016                
+POS_ORIGIN 5098                
+POS_SEREFERRALS 5232                
+POS_PAGEREFS 5410                
+POS_SEARCHWORDS 5729                
+POS_KEYWORDS 6054                
+POS_MISC 2269                
+POS_ERRORS 6290                
+POS_CLUSTER 3417                
+POS_SIDER_404 6389                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120501034541 1 0 9667978247566
+FirstTime 20120401030558
+LastTime 20120430180938
+LastUpdate 20120502031343 1 0 0 0 0
+TotalVisits 32                  
+TotalUnique 30                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 30                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 7382 12 12 48030
+1 1 1 3691 13 13 39998
+2 2 2 7382 7 7 21083
+3 1 1 3691 12 12 30372
+4 0 0 0 14 14 54155
+5 2 2 7382 5 5 18455
+6 0 0 0 18 18 37750
+7 2 2 7382 29 29 89319
+8 4 4 14764 7 7 11917
+9 1 1 3691 21 21 55784
+10 0 0 0 11 11 29682
+11 3 3 7545 20 21 57676
+12 0 0 0 18 18 62023
+13 6 6 36315 24 24 64934
+14 0 0 0 12 12 41624
+15 1 1 3691 9 9 32750
+16 0 0 0 5 5 14972
+17 8 8 15416 14 15 47204
+18 2 2 7382 10 10 29944
+19 2 2 7382 9 9 28794
+20 2 2 7382 8 8 23921
+21 0 0 0 18 18 66435
+22 22 22 21226 17 18 30573
+23 5 5 18455 23 23 57829
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 24 24 92169
+eu 19 19 17209
+ip 9 9 33219
+fr 8 8 29528
+ru 5 5 4343
+ua 1 1 3691
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 96 368912 20120428225249 0
+yandex 38 207754 20120430130957 0
+infobot 33 121803 20120430172200 0
+bot[\s_+:,\.\;\/\\-] 30 131518 20120430154238 0
+no_user_agent 25 92275 20120430194248 0
+mail\.ru 8 43697 20120430044527 0
+powermarks 2 7382 20120427115227 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 41 73715 0 0
+html 25 106444 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 6
+winme 1
+winxp 36
+win2003 1
+winnt 3
+win2000 4
+win2008 21
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 8
+msie8.0 6
+msie6.0 26
+msie9.0 4
+mozilla 4
+chrome11.0.696.71 1
+msie5.5 1
+chrome18.0.1025.151 22
+opera9.80 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 9 9
+From1 0 0
+From2 4 4
+From3 13 13
+From4 40 40
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 2 2
+rambler 1 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://hairstylestop.net 4 4
+http://hitman47.com 2 2
+http://www.stazher.com 2 2
+http://korop.in 2 2
+http://alltehno.com 2 2
+http://domaincoleta.com/whois/koryagin.biz 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+%d1%87%d0%b5%d1%80%d1%82%d0%b5%d0%b6+%d1%82%d0%b5%d0%bf%d0%bb%d0%be%d0%bd%d0%b0%d1%81%d0%be%d1%81%d0%bd%d0%be%d0%b9+%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b8 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+%d1%87%d0%b5%d1%80%d1%82%d0%b5%d0%b6 1
+%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b8 1
+%d1%82%d0%b5%d0%bf%d0%bb%d0%be%d0%bd%d0%b0%d1%81%d0%be%d1%81%d0%bd%d0%be%d0%b9 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 2 482
+404 102 21401
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 17
+/sitemap.xml 7 -
+/robots.txt 74 -
+/mysqladmin/scripts/setup.php 1 -
+/mysql/scripts/setup.php 1 -
+/sql/scripts/setup.php 1 -
+/administrator/index.php 1 -
+/phpadmin/scripts/setup.php 1 -
+/sqladmin/scripts/setup.php 1 -
+/php/scripts/setup.php 1 -
+/index1.htm 3 -
+/index.htm 5 http://koryagin.biz/
+/pma/scripts/setup.php 1 -
+/phpmyadmin/scripts/setup.php 1 -
+/myadmin/scripts/setup.php 1 -
+/my/scripts/setup.php 1 -
+/phpMyAdmin/scripts/setup.php 1 -
+/myphp/scripts/setup.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 30
+188.231.201.21 17 17 9827 20120408220626
+93.196.163.26 6 6 36315 20120409134914
+213.87.132.71 5 5 4343 20120407173409
+178.137.128.19 4 4 14764 20120430021149
+95.72.241.219 3 3 4017 20120404221801
+95.191.44.187 2 2 3854 20120415110645
+193.106.136.37 2 2 7382 20120430180938
+177.20.212.89 2 2 7382 20120408230105
+193.106.136.32 2 2 7382 20120424050943
+193.106.136.43 2 2 7382 20120417200055
+27.159.192.233 1 1 3691 20120404070135
+27.159.200.39 1 1 3691 20120410133740
+27.159.211.94 1 1 3691 20120404083713
+79.120.197.202 1 1 3691 20120408230040
+188.138.113.146 1 1 3691 20120404230107
+27.159.192.68 1 1 3691 20120407151304
+91.217.178.209 1 1 3691 20120401030558
+109.200.12.34 1 1 3691 20120424000629
+27.159.193.231 1 1 3691 20120406073118
+184.82.169.91 1 1 3691 20120415003559
+213.159.240.240 1 1 3691 20120408225835
+65.52.245.91 1 1 3691 20120403081817
+27.159.195.208 1 1 3691 20120411191219
+50.112.107.16 1 1 3691 20120407174204
+186.188.237.21 1 1 3691 20120408225942
+94.174.135.52 1 1 3691 20120418193104
+91.217.178.234 1 1 3691 20120403012851
+27.159.203.35 1 1 3691 20120403111444
+194.125.224.116 1 1 3691 20120408230128
+193.106.136.39 2 2 7382 20120420170546
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20120401 1 1 3691 1
+20120403 3 3 11073 3
+20120404 6 6 15090 4
+20120406 1 1 3691 1
+20120407 7 7 11725 3
+20120408 23 23 31973 6
+20120409 6 6 36315 2
+20120410 1 1 3691 1
+20120411 1 1 3691 1
+20120415 3 3 7545 2
+20120417 2 2 7382 1
+20120418 1 1 3691 1
+20120420 2 2 7382 1
+20120424 3 3 11073 2
+20120429 2 2 7382 1
+20120430 4 4 14764 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 2
+0s-30s 30
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/handler_main.php 22 3586 0 4
+/ 21 77511 14 10
+/index.php 19 70129 17 17
+/energ_param/ 1 5340 0 1
+/electr_param/ 1 6232 0 0
+/tech_diagram/ 1 11471 0 0
+/heat_param/ 1 5890 1 0
+END_SIDER

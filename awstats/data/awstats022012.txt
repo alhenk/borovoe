@@ -1,0 +1,404 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201202 will be lost/reset.
+# Last config file used to build this data file was ./awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1934                
+POS_TIME 2593                
+POS_VISITOR 9036                
+POS_DAY 10186               
+POS_DOMAIN 3300                
+POS_LOGIN 3588                
+POS_ROBOT 3743                
+POS_WORMS 4140                
+POS_EMAILSENDER 4271                
+POS_EMAILRECEIVER 4414                
+POS_SESSION 10824               
+POS_SIDER 11001               
+POS_FILETYPES 4549                
+POS_OS 4634                
+POS_BROWSER 4796                
+POS_SCREENSIZE 5131                
+POS_UNKNOWNREFERER 5205                
+POS_UNKNOWNREFERERBROWSER 5292                
+POS_ORIGIN 5374                
+POS_SEREFERRALS 5512                
+POS_PAGEREFS 5690                
+POS_SEARCHWORDS 6715                
+POS_KEYWORDS 6882                
+POS_MISC 2257                
+POS_ERRORS 6956                
+POS_CLUSTER 3444                
+POS_SIDER_404 7045                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120301071941 1 0 10098625564006
+FirstTime 0
+LastTime 20120229214005
+LastUpdate 20120302031245 1 0 0 0 0
+TotalVisits 84                  
+TotalUnique 27                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 27                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 11073 12 12 33845
+1 7 7 28378 11 11 23186
+2 5 5 18455 12 12 27691
+3 14 14 51674 3 3 6648
+4 5 5 18455 16 17 48838
+5 16 16 59056 1 1 208
+6 16 16 59056 4 4 4315
+7 5 5 20654 11 11 23185
+8 7 7 25837 21 21 76813
+9 8 8 29528 10 10 19499
+10 29 29 29423 13 14 27084
+11 42 42 75246 4 8 4315
+12 12 12 40798 12 14 37325
+13 5 5 18455 14 14 55393
+14 13 13 49632 17 17 49530
+15 4 4 14764 11 11 14404
+16 8 8 29528 6 6 8214
+17 9 9 33219 44 44 46331
+18 5 5 18455 8 8 10279
+19 2 2 7382 8 8 8630
+20 4 4 14764 7 7 14548
+21 14 14 51674 13 13 30568
+22 3 3 11073 11 11 26201
+23 9 9 33219 9 9 15812
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 129 129 319443
+fr 53 53 195623
+ip 43 43 160912
+gb 18 18 66438
+eu 2 2 7382
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 76 293845 20120227203915 0
+no_user_agent 19 70129 20120229081524 0
+bot[\s_+:,\.\;\/\\-] 14 70033 20120229174255 0
+mail\.ru 12 72630 20120228084521 0
+yandex 11 40601 20120227022904 0
+msiecrawler 7 25837 20120229083237 0
+powermarks 3 11073 20120226130703 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 59 46904 0 0
+html 186 702894 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+winlong 8
+winxp 133
+unix 3
+win2000 16
+winnt 24
+win98 2
+linux 1
+winme 6
+win16 1
+winunknown 1
+win95 3
+win2003 22
+win2008 25
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 21
+msie6.0 100
+opera7.11 1
+netscape4.61 3
+chrome17.0.963.56 33
+firefox7.0 1
+opera9.00 2
+opera8.01 1
+msie5.5 11
+firefox7.0.1 2
+netscape4.76 1
+firefox1.0.7 5
+opera7.60 1
+mozilla 27
+netscape3.0 4
+netscape0.91 1
+msie7.0 18
+chrome17.0.963.46 6
+firefox3.6.3 1
+msie5.0 3
+msie9.0 23
+opera7.54 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 12 12
+From1 0 0
+From2 3 3
+From3 170 170
+From4 60 60
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 1 1
+rambler 1 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 33
+http://www.apricus-studio.ru 15 15
+http://planet-best.ru 13 13
+http://chelseablues.ru 13 13
+http://uristportal.ru 10 10
+http://8gamers.ru 9 9
+http://vip-varez.info 9 9
+http://zel-klimat.ru 9 9
+http://bertsi.ru 7 7
+http://lagrande.ru 6 6
+http://ra-1.ru 6 6
+http://serialz.com.ua 3 3
+http://twofile.ru 2 2
+http://0027.ru 3 3
+http://323f.ru 4 4
+http://formica-spb.ru 3 3
+http://cable-rzn.ru 3 3
+http://www.otvetnemail.ru/forumdisplay.php 2 2
+http://2-wmr.ru 3 3
+http://smart-fusion.ru/news.php 3 3
+http://low-kick.ru 3 3
+http://totoplus.info 3 3
+http://www.woodclass.ru 4 4
+http://www.artwhite.ru 4 4
+http://lepkind.com.ua 5 5
+http://cinematograf.3dn.ru 2 2
+http://sergeevs.eu 2 2
+http://karelia-sruby.ru 6 6
+http://www.zvezdaput.net/wordpress/ 3 3
+http://st-arenda.com 2 2
+http://fifa-2013.ru 3 3
+http://www.schoolbuild.ru 1 1
+http://vlirt.ru 3 3
+http://www.avtokovrika.net 6 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+koryagin.biz 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+koryagin.biz 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 137 28714
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 35
+/robots.txt 88 -
+/index/ucp.php 1 http://koryagin.biz/index/ucp.php
+/forum2/ucp.php 1 http://koryagin.biz/forum2/ucp.php
+/index/register.php 1 http://koryagin.biz/index/register.php
+/forums/ucp.php 1 http://koryagin.biz/forums/ucp.php
+/forums/register.php 1 http://koryagin.biz/forums/register.php
+/forum/register.php 1 http://koryagin.biz/forum/register.php
+/index1.htm 4 -
+/board/ucp.php 1 http://koryagin.biz/board/ucp.php
+/index.htm 6 -
+/forum1/register.php 1 http://koryagin.biz/forum1/register.php
+/forum/ucp.php 1 http://koryagin.biz/forum/ucp.php
+/profile.php 1 http://koryagin.biz/profile.php
+/forum2/index.php 1 http://koryagin.biz/forum2/index.php
+/board/index.php 1 http://koryagin.biz/board/index.php
+/index/profile.php 1 http://koryagin.biz/index/profile.php
+/forum2/profile.php 1 http://koryagin.biz/forum2/profile.php
+/register.php 1 http://koryagin.biz/register.php
+/index/index.php 1 http://koryagin.biz/index/index.php
+/forum/profile.php 1 http://koryagin.biz/forum/profile.php
+/readme.html 2 -
+/forum1/index.php 1 http://koryagin.biz/forum1/index.php
+/forums/profile.php 1 http://koryagin.biz/forums/profile.php
+/forum1/profile.php 1 http://koryagin.biz/forum1/profile.php
+/fckeditor/editor/images/spacer.gif 1 
+/administrator/ 3 -
+/forum1/ucp.php 1 http://koryagin.biz/forum1/ucp.php
+/forums/index.php 1 http://koryagin.biz/forums/index.php
+/forum/index.php 1 http://koryagin.biz/forum/index.php
+/ucp.php 1 http://koryagin.biz/ucp.php
+/board/register.php 1 http://koryagin.biz/board/register.php
+/wp-login.php 2 -
+/parameter_list.htm 4 -
+/board/profile.php 1 http://koryagin.biz/board/profile.php
+/forum2/register.php 1 http://koryagin.biz/forum2/register.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 27
+95.57.51.38 33 33 42027 20120226112013
+109.120.157.179 31 31 114421 20120229105447
+92.249.127.111 29 29 107039 20120229135041
+109.197.195.170 23 23 7277 20120214103522
+213.110.133.221 18 18 66438 20120228172538
+178.137.129.75 16 16 59056 20120229214005
+193.106.136.34 15 15 55365 20120225201104
+193.106.136.52 12 12 44292 20120220064047
+178.137.5.23 11 11 40601 20120208131416
+178.137.128.223 9 9 33219 20120216012415
+193.106.136.35 3 3 11073 20120207095036
+128.68.113.148 1 1 3691 20120226141230
+64.120.183.213 3 3 12722 20120229212431
+81.176.230.40 2 2 7382 20120224140726
+193.106.136.61 6 6 22146 20120202051903
+184.82.3.104 1 1 5890 20120227074132
+193.106.136.41 3 3 11073 20120212064032
+64.120.194.170 1 1 6232 20120227015413
+193.106.136.58 3 3 11073 20120205111630
+2.132.139.146 6 6 18652 20120219125959
+50.16.165.4 1 1 3691 20120222222149
+91.207.4.74 1 1 3691 20120224051933
+78.46.128.119 2 2 7382 20120212155146
+176.9.38.139 1 1 3691 20120226111709
+178.137.129.27 3 3 11073 20120202160620
+193.106.136.63 5 5 18455 20120229083237
+193.106.136.39 6 6 22146 20120216112904
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20120201 3 3 11073 1
+20120202 9 9 33219 3
+20120203 2 2 7382 1
+20120205 3 3 11073 1
+20120206 3 3 11073 1
+20120207 3 3 11073 1
+20120208 3 3 11073 1
+20120209 12 12 44292 5
+20120210 6 6 22146 3
+20120211 3 3 11073 1
+20120212 9 9 33219 4
+20120214 31 31 36805 4
+20120215 4 4 14764 2
+20120216 9 9 33219 3
+20120217 2 2 7382 1
+20120218 11 11 40601 3
+20120219 11 11 37107 3
+20120220 9 9 33219 4
+20120221 10 10 36910 4
+20120222 15 15 57014 7
+20120223 6 6 22146 3
+20120224 6 6 22146 4
+20120225 9 9 33219 4
+20120226 41 41 71555 7
+20120227 6 6 26886 4
+20120228 6 6 22146 3
+20120229 13 13 47983 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 1
+30s-2mn 1
+0s-30s 81
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 181 668071 79 77
+/tech_diagram/handler.php 28 26376 0 0
+/handler_main.php 25 4075 0 2
+/index.php 2 7382 1 1
+/heat_param/ 2 11780 1 1
+/energ_param/ 1 5340 1 1
+/electr_param/ 1 6232 1 1
+/heat_param/handler_heat_param.php 1 518 0 1
+/heat_param/gr_lpc.php 1 2851 0 0
+/heat_param/gr_hpc.php 1 2851 0 0
+/heat_param/gr_tamb.php 1 2851 0 0
+/tech_diagram/ 1 11471 1 0
+END_SIDER

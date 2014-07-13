@@ -1,0 +1,440 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201201 will be lost/reset.
+# Last config file used to build this data file was ./awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1934                
+POS_TIME 2612                
+POS_VISITOR 9550                
+POS_DAY 11005               
+POS_DOMAIN 3342                
+POS_LOGIN 3652                
+POS_ROBOT 3807                
+POS_WORMS 4294                
+POS_EMAILSENDER 4425                
+POS_EMAILRECEIVER 4568                
+POS_SESSION 11645               
+POS_SIDER 11824               
+POS_FILETYPES 4703                
+POS_OS 4788                
+POS_BROWSER 4951                
+POS_SCREENSIZE 5382                
+POS_UNKNOWNREFERER 5456                
+POS_UNKNOWNREFERERBROWSER 6445                
+POS_ORIGIN 6578                
+POS_SEREFERRALS 6716                
+POS_PAGEREFS 6882                
+POS_SEARCHWORDS 8214                
+POS_KEYWORDS 8638                
+POS_MISC 2276                
+POS_ERRORS 8973                
+POS_CLUSTER 3508                
+POS_SIDER_404 9072                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120201004504 25 4360 12479972619062
+FirstTime 20120101013419
+LastTime 20120130231405
+LastUpdate 20120201031357 25 0 22 0 2
+TotalVisits 81                  
+TotalUnique 35                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 35                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 13 47983 14 14 26823
+1 11 11 35403 29 29 68019
+2 16 16 59056 16 16 39815
+3 9 9 33219 13 13 12313
+4 1 1 3691 15 15 34467
+5 16 16 59056 9 9 18345
+6 3 3 11073 17 17 24434
+7 11 11 37759 12 12 24208
+8 9 9 33219 24 24 50224
+9 0 0 0 14 14 20327
+10 10 10 34068 21 21 21783
+11 23 23 72655 16 17 27709
+12 10 10 19270 18 19 38574
+13 3 3 11073 22 22 46552
+14 4 4 14764 19 19 22377
+15 16 16 16720 20 21 21577
+16 15 15 55365 21 21 42689
+17 3 3 11073 13 13 30575
+18 15 15 51837 9 9 15804
+19 6 6 15479 11 11 5773
+20 9 9 33219 19 19 39017
+21 9 9 33219 13 13 34051
+22 15 15 55365 7 7 1456
+23 11 11 40601 11 11 12737
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 80 80 201119
+ip 71 71 264260
+fr 60 60 221460
+gb 21 21 77511
+se 3 3 9744
+eu 2 2 7382
+ua 1 1 3691
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+googlebot 95 369066 20120131130930 0
+bot[\s_+:,\.\;\/\\-] 20 91837 20120131101939 0
+mail\.ru 13 76321 20120130200008 0
+yandex 7 25837 20120131151907 0
+no_user_agent 6 22146 20120126112245 0
+nutch 4 16932 20120129030306 0
+motor 3 11073 20120121122823 0
+powermarks 2 7382 20120108073314 0
+docomo 2 7382 20120114030435 0
+java\/[0-9] 1 3691 20120117011719 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 39 39871 0 0
+html 199 745296 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+winlong 7
+winxp 112
+java 3
+winnt 8
+win2000 12
+linux 1
+winme 7
+winunknown 5
+win95 5
+win2003 24
+wince 4
+Unknown 49
+win2008 1
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 32
+msie6.0 74
+firefox4.0.1 1
+sonyericsson 8
+msie4.01 3
+portalmmm 11
+opera9.00 4
+msie3.02 2
+opera9.80 3
+msie8.0 13
+netscape4.76 1
+opera7.60 2
+netscape0.91 2
+msie7.0 30
+philips 5
+sec\- 6
+msie2.0 2
+msie5.0 1
+chrome16.0.912.63 6
+Unknown 5
+opera7.54 2
+opera7.11 4
+opera8.00 3
+samsung 5
+opera9.01 2
+firefox3.6.16 1
+msie5.5 5
+netscape0.6 3
+firefox1.0.7 2
+nokia 3
+sie\- 6
+mozilla 20
+mot\- 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+SIE-S55/08_UP.Browser/6.1.0.5.c.1_(GUI)_MMP/1.0 20120106022614
+SonyEricssonK700c/R2AE_SEMC-Browser/4.0.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20120117103914
+SAMSUNG-SGH-N620/1.0_UP/4.1.19k_UP.Browser/4.1.19k-XXXX 20120119223025
+Samsung_MITs/i550_BTB_Browser/v1.0 20120122202901
+SEC-SPHA540_UP.Browser/4.1.26l_UP.Link/4.3.3.4a 20120124080709
+SonyEricssonK608i/R2K_Browser/SEMC-Browser/4.2_Profile/MIDP-2.0_Configuration/CLDC-1.1 20120108011725
+SonyEricssonZ608 20120117065033
+PHILIPS-VTHIN_WAP 20120119155546
+portalmmm/2.0_N400i(c20;TB) 20120115022430
+SEC-SGHP408*MzUyNTY4MDAyMjMwNzQ2 20120125185951
+SIE-C62/32 20120120235318
+MOT-F5/4.1.9_UP.Browser/4.1.23c_UP.Link/5.1.0.2 20120107183830
+LGE-TM540C 20120103143519
+portalmmm/2.0_N401i 20120114143853
+PHILIPS755_ObigoInternetBrowser/2.0 20120119230544
+Nokia6210/1.0_v0.13_(compatible;_YOSPACE_SmartPhone_Emulator_Website_Edition_1.16) 20120111101201
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Java1.3.0 20120118113148
+LGE-TM540C 20120103143519
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 13 13
+From1 0 0
+From2 2 2
+From3 183 183
+From4 40 40
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 44
+http://parazitpro.ru 12 12
+http://historywall.ru 9 9
+http://zel-klimat.ru 9 9
+http://regconn.ru 6 6
+http://1admiral.com 6 6
+http://www.otvetnemail.ru/forumdisplay.php 6 6
+http://autotema.org.ua 6 6
+http://vampired.tv 6 6
+http://www.katalog-tovarov.com/content 6 6
+http://kinodivan.net 6 6
+http://www.perevezem.kiev.ua 5 5
+http://www.justlady.ru 3 3
+http://www.prodetey.ru 1 1
+http://training.vsedljavas.net 3 3
+http://euronis-free.com 3 3
+http://bmwx6.com.ua 4 4
+http://www.malinkashop.ru 3 3
+http://krasnoxolm.ru 2 2
+http://site4seek.com/46028/0/transexual+sex.html 1 1
+http://aetosforex.com/dealings.html 4 4
+http://footballtennis.ru 3 3
+http://apanic.ru 3 3
+http://cable-rzn.ru 3 3
+http://bigmultik.net 3 3
+http://nika-obuv.ru 3 3
+http://us-america.ru 2 2
+http://asia-forum.ru 3 3
+http://fizika.tv 1 1
+http://fungadget.ru 3 3
+http://2itech.ru 6 6
+http://esk72.ru 2 2
+http://invideo.in 3 3
+http://spbchampionat.ru 3 3
+http://sexymagazin.ru 6 6
+http://mp3films.ru 6 6
+http://seorko.com 3 3
+http://filmis.tv 3 3
+http://svaty.tv 6 6
+http://www.kakprosto.ru 3 3
+http://your-torrent.ru 6 6
+http://mamba.kiev.ua 3 3
+http://uuu.ipus.ru 2 2
+http://infac.ru 3 3
+http://allminsk2014.com 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+%d1%82%d0%b5%d0%bf%d0%bb%d0%be%d0%bd%d0%b0%d1%81%d0%be%d1%81%d0%bd%d0%b0%d1%8f+%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b0 1
+%d1%82%d0%b5%d0%bf%d0%bb%d0%be%d0%bd%d0%b0%d1%81%d0%be%d1%81%d0%bd%d1%8b%d0%b5+%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b8 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+%d1%82%d0%b5%d0%bf%d0%bb%d0%be%d0%bd%d0%b0%d1%81%d0%be%d1%81%d0%bd%d1%8b%d0%b5 1
+%d1%82%d0%b5%d0%bf%d0%bb%d0%be%d0%bd%d0%b0%d1%81%d0%be%d1%81%d0%bd%d0%b0%d1%8f 1
+%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b8 1
+%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b0 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 2 482
+404 228 47500
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 6
+/index.htm 6 -
+/wp-login.php 2 -
+/index1.htm 4 -
+/robots.txt 213 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/parameter_list.htm 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 35
+178.137.5.105 30 30 110730 20120129054502
+213.110.133.221 21 21 77511 20120119230544
+92.249.127.111 20 20 73820 20120120235318
+193.106.136.59 17 17 62747 20120130231405
+91.224.159.6 13 13 5647 20120108150608
+193.106.136.53 12 12 44292 20120130055042
+178.137.129.153 12 12 44292 20120118214849
+109.120.157.179 12 12 44292 20120125185951
+178.137.5.205 11 11 40601 20120111160748
+193.106.136.34 9 9 33219 20120120171356
+176.65.167.32 1 1 3691 20120109124829
+2.73.96.82 1 1 849 20120117103914
+207.46.195.215 2 2 3854 20120103180359
+109.120.156.118 3 3 11073 20120108011725
+157.55.17.88 7 7 18440 20120114011214
+207.46.12.111 7 7 14928 20120114113116
+213.154.196.132 1 1 3691 20120111111619
+217.212.230.13 3 3 9744 20120113114645
+193.106.136.50 4 4 14764 20120115041043
+193.106.136.62 3 3 11073 20120119123650
+207.46.199.16 6 6 15479 20120114195537
+193.106.136.61 3 3 11073 20120129185553
+81.176.230.40 2 2 7382 20120127075032
+178.137.5.148 3 3 11073 20120101221316
+184.82.15.42 1 1 3691 20120114002508
+82.247.243.54 1 1 3691 20120117070119
+178.137.5.7 6 6 22146 20120105020945
+193.106.136.57 9 9 33219 20120104202658
+46.118.230.137 1 1 5890 20120101013419
+178.137.128.38 3 3 11073 20120106053508
+89.148.246.206 6 6 4506 20120105124740
+193.106.136.51 3 3 11073 20120117131503
+86.144.97.22 1 1 3691 20120120050846
+178.137.129.27 3 3 11073 20120130083504
+2.72.64.99 1 1 849 20120113072802
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20120101 5 5 20654 3
+20120103 10 10 33382 4
+20120104 6 6 22146 2
+20120105 9 9 15579 2
+20120106 9 9 33219 3
+20120107 3 3 11073 1
+20120108 26 26 53630 6
+20120109 4 4 14764 2
+20120110 6 6 22146 2
+20120111 13 13 47983 5
+20120112 6 6 22146 2
+20120113 8 8 25357 4
+20120114 22 22 56229 5
+20120115 7 7 25837 4
+20120116 9 9 33219 3
+20120117 8 8 26686 4
+20120118 12 12 44292 4
+20120119 10 10 36910 4
+20120120 22 22 81202 6
+20120122 3 3 11073 1
+20120124 9 9 33219 3
+20120125 3 3 11073 1
+20120126 3 3 11073 1
+20120127 4 4 14764 2
+20120128 3 3 11073 1
+20120129 6 6 22146 2
+20120130 12 12 44292 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 1
+15mn-30mn 1
+30s-2mn 1
+0s-30s 78
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 194 716054 74 70
+/handler_main.php 19 3097 0 3
+/energ_param/handler_energ_param.php 3 1035 0 1
+/heat_param/ 3 17670 2 2
+/heat_param/handler_heat_param.php 2 1036 0 1
+/wap.php 2 1698 2 2
+/electr_param/handler_electr_param.php 2 804 0 1
+/energ_param/ 1 5340 1 0
+/electr_param/ 1 6232 1 0
+/energ_param/gr_electr.php 1 2851 0 0
+/heat_param/gr_lpc.php 1 2851 0 0
+/energ_param/gr_heat.php 1 2851 0 0
+/electr_param/gr_curr.php 1 2851 0 0
+/electr_param/gr_volt.php 1 2851 0 0
+/electr_param/gr_freq.php 1 2851 0 0
+/index.php 1 3691 1 1
+/heat_param/gr_hpc.php 1 2851 0 0
+/energ_param/gr_tamb.php 1 2851 0 0
+/heat_param/gr_tamb.php 1 2851 0 0
+/electr_param/gr_tamb.php 1 2851 0 0
+END_SIDER
